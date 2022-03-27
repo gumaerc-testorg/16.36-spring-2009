@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d87d186a-8c38-b970-ae17-9431a75f2842
 resourcetype: Other
 title: clip
 uid: 115556d6-77e1-c794-5509-f80fb12995a3

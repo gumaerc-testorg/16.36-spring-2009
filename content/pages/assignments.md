@@ -80,9 +80,9 @@ Problem set 6 ([PDF]({{< baseurl >}}/resources/mit16_36s09_assn06))
 {{< tdopen >}}
 
 
-rand\_bitstring.m ([M](/courses/aeronautics-and-astronautics/16-36-communication-systems-engineering-spring-2009/assignments/rand_bitstring.m))
+rand\_bitstring.m ([M]({{< baseurl >}}/resources/rand_bitstring))
 
-error\_check.m ([M](/courses/aeronautics-and-astronautics/16-36-communication-systems-engineering-spring-2009/assignments/error_check.m))
+error\_check.m ([M]({{< baseurl >}}/resources/error_check))
 
 
 {{< tdclose >}}
