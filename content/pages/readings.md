@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture session, ans
+  information on the course textbook, supplementary texts, and references.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 02b86db8-02ba-b440-2782-65e92cb68ee2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 All readings are from the course textbook unless noted otherwise.
