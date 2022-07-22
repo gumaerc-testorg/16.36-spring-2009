@@ -8,6 +8,7 @@ file: /courses/16-36-communication-systems-engineering-spring-2009/115556d677e1c
 file_type: audio/x-wav
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for an assignment to implement a quantizer for a sampled audio stream and see the effects of reducing the number of quantization levels on sound quality.  From "Candles & Purple Leaves." Courtesy of PeerGynt Lobogris on Jamendo.
-
