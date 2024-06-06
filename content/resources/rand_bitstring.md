@@ -5,6 +5,7 @@ description: 'Supporting file for an assignment to modify a PAM demodulator to b
   of noise, and compare the results to the theoretical error probability. Generates
   a random bit string of size n with distribution p: 0 <= p <= 1.'
 file: /courses/16-36-communication-systems-engineering-spring-2009/690c618dc6ec8b3d0ff23a1ebb02a081_rand_bitstring.m
+file_size: 306
 file_type: text/plain
 learning_resource_types:
 - Assignments
