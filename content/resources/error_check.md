@@ -4,7 +4,7 @@ description: Supporting file for an assignment to modify a PAM demodulator to be
   optimum MAP detector for antipodal signaling, test the demodulator in the presence
   of noise, and compare the results to the theoretical error probability. Takes in
   bitstring B1 and B2, return number of bit errors and error rate.
-file: /ol-ocw-studio-app/courses/16-36-communication-systems-engineering-spring-2009/66bf2c110dde03e888ed095cbafb7207_error_check.m
+file: /courses/16-36-communication-systems-engineering-spring-2009/66bf2c110dde03e888ed095cbafb7207_error_check.m
 file_size: 423
 file_type: text/plain
 learning_resource_types:
