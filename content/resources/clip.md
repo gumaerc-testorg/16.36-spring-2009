@@ -4,7 +4,7 @@ description: Supporting file for an assignment to implement a quantizer for a sa
   audio stream and see the effects of reducing the number of quantization levels on
   sound quality.  From "Candles & Purple Leaves." Courtesy of PeerGynt Lobogris on
   Jamendo.
-file: /courses/16-36-communication-systems-engineering-spring-2009/115556d677e1c7945509f80fb12995a3_clip.wav
+file: /ol-ocw-studio-app/courses/16-36-communication-systems-engineering-spring-2009/115556d677e1c7945509f80fb12995a3_clip.wav
 file_size: 77928
 file_type: audio/x-wav
 learning_resource_types:
